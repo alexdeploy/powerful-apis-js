@@ -31,6 +31,22 @@
   </tbody>
 </table>
 
+<table>
+  <tbody>
+    <tr>
+      <td width="80" align="center">
+        <a href="https://www.intercom.com/"><img src="https://static-00.iconduck.com/assets.00/intercom-icon-512x512-0sxmm9p8.png"></a>
+      </td>
+      <td valign="center">
+        <h3>Intercom</h3>
+        <p>
+          Effortlessly scale your business support and increase customer satisfaction with Intercom. Deliver better customer experiences & faster support w/ the top customer service platform.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## E-commerce
 
 <table>
